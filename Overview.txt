@@ -1,0 +1,3 @@
+The files contained in this Repo are for the CSC Hacks 6-week project
+
+Working on building an App that encompasses Tourism/Exploring with Running/Walking
